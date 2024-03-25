@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1,
+h2,
+h3 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul,
+ol {
+    color: whitesmoke;
+}
+
+.link {
+    font-size: 24 px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    background-color: bisque;
+}
+
+p {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
